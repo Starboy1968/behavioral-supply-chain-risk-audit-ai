@@ -82,11 +82,14 @@ flowchart LR
 
 ## Related projects
 
-- [ai-supply-chain-risk-assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment) - AI risks across the supply chain; stage model reused here
-- [ai-assisted-risk-analysis](https://github.com/Starboy1968/ai-assisted-risk-analysis) - reusable risk-analysis prompt and worked example; prompt structure reused here
-- [power-behavior-risk-indicators](https://github.com/Starboy1968/power-behavior-risk-indicators) - 22 qualitative power and behavior indicators; evidence ladder reused here
-- [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory) - hidden tier-2 single points of failure
-- [supply-web-audit](https://github.com/Starboy1968/supply-web-audit) - plain-English supply risk audit for small and mid-size businesses
+- [AI Supply Chain Risk Assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment): nine scored AI-related supply chain risks, with controls, warning indicators (KRIs) and a 30/60/90-day plan.
+- [AI-Assisted Risk Analysis](https://github.com/Starboy1968/ai-assisted-risk-analysis): a reusable risk-analysis prompt and a worked example where an AI first draft is checked and corrected by a human reviewer.
+- [Reading the Room: Power and Behavior Risk Indicators](https://github.com/Starboy1968/power-behavior-risk-indicators): observable signs of how power, incentives and group behavior shape risk decisions, and how to turn them into solid findings.
+- [Playing the Risk Game: Game Theory for Supply Chain Risk and AI Governance](https://github.com/Starboy1968/supply-chain-ai-governance-strategy): plain-language game theory that explains why supply chain and AI risks persist, and which incentives to change.
+- [AI in Supply Chain Operations: A Strategist's Field Guide](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs, and what to check before trusting it.
+- [Healthcare Cyber Risk Program: An OSINT Case Study](https://github.com/Starboy1968/healthcare-cyber-risk-osint-case-study): a cyber risk program for a fictional regional health system, built only from public sources.
+- [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory): hidden tier-2 single points of failure
+- [supply-web-audit](https://github.com/Starboy1968/supply-web-audit): plain-English supply risk audit for small and mid-size businesses
 
 ## Author
 
